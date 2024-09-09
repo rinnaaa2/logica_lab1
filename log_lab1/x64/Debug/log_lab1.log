@@ -1,3 +1,1 @@
-﻿  log_lab1.cpp
-C:\Users\Марина\Desktop\university\2_1\ЛиОА\lab1\logica_lab1\log_lab1\log_lab1.cpp(6,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  log_lab1.vcxproj -> C:\Users\Марина\Desktop\university\2_1\ЛиОА\lab1\logica_lab1\log_lab1\x64\Debug\log_lab1.exe
+﻿  log_lab1.vcxproj -> C:\Users\Марина\Desktop\university\2_1\ЛиОА\lab1\logica_lab1\log_lab1\x64\Debug\log_lab1.exe
