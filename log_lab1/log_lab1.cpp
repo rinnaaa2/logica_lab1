@@ -22,6 +22,34 @@ struct student* search(struct student stud[], int num_students, char* famil, cha
     return NULL; // Студент не найден
 }
 
+<<<<<<< HEAD
+	printf("\nСумма по столбцам:\n");
+	for (int j = 0; j < stolb; j++) {
+		int sum = 0;
+		for (int i = 0; i < stroca; i++) {
+			sum += mass[i][j];
+		}
+		printf("Столбец %d: %d\n", j + 1, sum);
+	}
+	
+	int summ = 0;
+	if (stroca == stolb) {
+		for (int i = 0; i < stroca; i++) {
+			for (int j = 0; j < stolb; j++) {
+				if (i == j) {
+					summ += mass[i][i];
+				}
+			}
+		}
+	}
+	
+	razn = max - min;
+	printf("\nМаксимальный элемент:%d\nМинимальный элемент:%d\nРазница:%d", max, min, razn);
+	printf("\nСумма элементов на диагонали:%d", summ);
+	free(mass);
+	return 0;
+}
+=======
 int main() {
     setlocale(LC_ALL, "");
     // Создаем массив структур students
@@ -71,3 +99,4 @@ int main() {
     }
     return 0;
 }
+>>>>>>> 40568b9420556fb53e30c5b0c4227053c31f71c0

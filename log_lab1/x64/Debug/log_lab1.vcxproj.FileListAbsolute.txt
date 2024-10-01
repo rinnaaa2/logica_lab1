@@ -1,1 +1,2 @@
 C:\Users\Марина\Desktop\university\2_1\ЛиОА\lab1\logica_lab1\log_lab1\x64\Debug\log_lab1.exe
+C:\Users\Марина\Desktop\university\2_1\ЛиОА\lab\logica_lab1\log_lab1\x64\Debug\log_lab1.exe
